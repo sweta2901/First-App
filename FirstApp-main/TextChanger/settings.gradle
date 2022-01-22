@@ -1,0 +1,2 @@
+rootProject.name = "TextChanger"
+include ':app'
