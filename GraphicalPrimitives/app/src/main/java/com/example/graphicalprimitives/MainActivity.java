@@ -42,6 +42,9 @@ public class MainActivity extends AppCompatActivity {
             x.setStrokeWidth(5);
             canvas.drawLine(1100,1000,1100,1500,x);
 
+            x.setTextSize(80);
+            canvas.drawText("GRAPHICAL PRIMITIVES",40, 180, x);
+
         }
     }
 }
